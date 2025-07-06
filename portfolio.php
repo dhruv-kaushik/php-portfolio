@@ -13,12 +13,12 @@ $projects = [
     [
         "title" => "Todo App in PHP",
         "description" => "A basic todo app built using core PHP and session storage with form validation.",
-        "link" => "#"
+        "link" => ""
     ],
     [
         "title" => "A small utility for a game I used to play",
         "description" => "Made using Next.js and Tailwind CSS — basically a ZIP Reader.",
-        "link" => "#"
+        "link" => "https://mcpackutils.vercel.app"
     ]
 ];
 ?>
